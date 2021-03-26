@@ -58,6 +58,8 @@ body {
     height: 100%;
     text-align: center;
     transform: rotate(var(--rotation));
+    font-size: 20px;
+    font-family: "Courier New", Courier, monospace;
 }
 
 .number1 {
