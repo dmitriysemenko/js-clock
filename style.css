@@ -53,6 +53,7 @@ body {
     text-align: center;
     transform: rotate(var(--rotation));
     font-size: 20px;
+    font-weight: bolder;
     font-family: "Courier New", Courier, monospace;
 }
 
